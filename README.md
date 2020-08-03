@@ -1,2 +1,2 @@
-# NotedApp by Eribib
+# Noted by Eribib
 Work-in-progress
