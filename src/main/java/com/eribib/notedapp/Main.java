@@ -1,6 +1,5 @@
 package com.eribib.notedapp;
 
-
 import javafx.application.Application;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
@@ -13,13 +12,9 @@ import javafx.scene.control.TextField;
 import javafx.scene.layout.GridPane;
 import javafx.scene.text.Text;
 
-
 public class Main extends Application {
 	
 	public static void main(String[] args) {
-		
-		// TODO Auto-generated method stub
-		
 		launch(args);
 	}
 	 public void start(Stage primaryStage) throws Exception{
@@ -33,7 +28,4 @@ public class Main extends Application {
 		 primaryStage.setScene(myScene);
 		 primaryStage.show();
 	 }
-	 
-	
-	
 }
